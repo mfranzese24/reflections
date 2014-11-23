@@ -9,3 +9,9 @@ You can check the status of the staging area to ensure only what makes sense is 
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches would help if you wanted to produce different versions of a file, for example, in two different languages.
+
+How do the diagrams help you visualize the branch structure?
+It helps you to understand the reachability or lack thereof of commits
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging the branches combines all changes in both branches to one master document.  It's represented in the diagram so that we can see where parents are/which branches changes were made in.
