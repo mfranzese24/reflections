@@ -6,3 +6,6 @@ Changes being pulled should be done only once committed / when complete
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks allow you to copy a public repository directly to your own github repository, where clones allow you to copy a repository directly to/from your machine.  Branches are strings of commits - you can have multiple branches for multiple versions of the same file.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefit is that you know when you begin working, you're working on the most updated copy, to reduce chance of conflict.
